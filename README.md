@@ -14,6 +14,7 @@ Project using python with various packages while training the model to detect ma
 3. Run `train.py` to train the model.
 4. Run `test.py` for live detection.
 
+
 ### How does it work?
 * Image classification is used to help create a model.
 * This model is trained with a dataset of images of people with and without masks.
@@ -48,6 +49,11 @@ Pip commands
 > ```pip install packagename```: To install required packages<br>
 > ```pip list```: List all the packages<br>
 > ```pip install --upgrade packagename```: To upgrade specific package 
+
+### Screenshots
+With Mask | Without Mask
+:----------------:|:----------------:
+<img src=https://github.com/vikasgn2/Face-mask-detection/blob/master/Screenshots/With_Mask.png width = 500 height = 250> |<img src=https://github.com/vikasgn2/Face-mask-detection/blob/master/Screenshots/Without_Mask.png width = 500 height =250>
 
 ### Contributors 
 <table>
